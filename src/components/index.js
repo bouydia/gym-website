@@ -1,0 +1,7 @@
+export { default as Hero } from './hero/Hero.jsx'
+export { default as Join } from './join/Join.jsx'
+export { default as Plans } from './plans/Plans.jsx'
+export { default as Programs } from './programs/Programs.jsx'
+export { default as Reasons } from './reasons/Reasons.jsx'
+export { default as Testimonials } from './testimonials/Testimonials.jsx'
+export { default as Footer } from './footer/Footer.jsx'
